@@ -1,0 +1,17 @@
+# File segreti: non devono mai finire in questo repository pubblico
+.env
+.env.*
+*.jks
+*.keystore
+keystore.properties
+local.properties
+google-services.json
+GoogleService-Info.plist
+*.p8
+*.p12
+*.pem
+*.key
+*.mobileprovision
+*.cer
+# File di sistema del Mac
+.DS_Store
